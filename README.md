@@ -1,2 +1,2 @@
-# Calculator Mobile Test
+# Calculator Mobile
 Simple Calculator on Mobile
